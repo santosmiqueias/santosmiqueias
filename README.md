@@ -3,7 +3,7 @@
 Desenvolvedor front-end de Teresina, Piauí. Sou **Técnico em Informática pelo IFMA** e estudo **Análise e Desenvolvimento de Sistemas na UNINASSAU**. Gosto de construir sistemas que resolvem problemas reais de quem está do meu lado: clínica-escola, evento acadêmico, rotina de estudos.
 
 - 🔭 Hoje trabalho com **React + TypeScript** e sites estáticos com JavaScript puro
-- 📱 Estou indo para o desenvolvimento **mobile com React Native**
+- 💻 Busco oportunidades em **desenvolvimento de software**: web, mobile e sistemas
 - 🏫 Já atuei como técnico em informática na Secretaria de Educação de Coelho Neto (MA)
 - 🎵 Também já fui professor de música
 
