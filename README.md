@@ -22,11 +22,11 @@ Desenvolvedor front-end de Teresina, Piauí. Sou **Técnico em Informática pelo
 
 ## 🚀 Projetos em destaque
 
-### [S.G.J.A — Jornada Acadêmica UNINASSAU](https://github.com/santosmiqueias/sgja-jornada-academica)
+### [S.G.J.A — Jornada Acadêmica UNINASSAU](https://github.com/santosmiqueias/sgja-jornada-academica) · [ver online](https://santosmiqueias.github.io/sgja-jornada-academica/)
 Site oficial da VI Jornada Acadêmica da UNINASSAU Teresina. Junta **inscrição, submissão de trabalhos, check-in por QR Code e certificado** num sistema só, no lugar de Google Forms e listas de papel. Tem painel da organização, validação de certificado e testes automatizados das regras de negócio.
 `HTML` `CSS` `JavaScript` `Bootstrap 5` `Node (testes)`
 
-### [CORA — Controle Odontológico de Registros e Atendimentos](https://github.com/santosmiqueias/cora)
+### [CORA — Controle Odontológico de Registros e Atendimentos](https://github.com/santosmiqueias/cora) · [ver online](https://santosmiqueias.github.io/cora/)
 Sistema para clínica-escola de odontologia. Acompanha cada paciente do check-in na recepção até a alta, com equipe do atendimento, procedimentos (notação FDI), tempo de espera ao vivo, perfis de acesso e métricas para professores.
 `HTML` `CSS` `JavaScript`
 
@@ -34,6 +34,6 @@ Sistema para clínica-escola de odontologia. Acompanha cada paciente do check-in
 Gerenciador de tarefas acadêmicas: prazos, progresso, tema claro/escuro e próximos feriados pela BrasilAPI. 12 componentes, 5 páginas, hooks próprios e deploy automático com GitHub Actions.
 `React` `TypeScript` `Vite` `React Router`
 
-### [Pokédex](https://github.com/santosmiqueias/Projeto-Pokedex)
+### [Pokédex](https://github.com/santosmiqueias/Projeto-Pokedex) · [ver online](https://santosmiqueias.github.io/Projeto-Pokedex/)
 Busca de Pokémon por nome ou número consumindo a PokéAPI, com cores por tipo e tratamento de erro.
 `HTML` `CSS` `JavaScript` `API REST`
