@@ -47,3 +47,8 @@ Gerenciador de tarefas acadêmicas: prazos, progresso, tema claro/escuro e próx
 ### [Pokédex](https://github.com/santosmiqueias/Projeto-Pokedex) · [ver online](https://santosmiqueias.github.io/Projeto-Pokedex/)
 Busca de Pokémon por nome ou número consumindo a PokéAPI, com cores por tipo e tratamento de erro.
 `HTML` `CSS` `JavaScript` `API REST`
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miqueias-santos-a8a92bb5/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?logo=gmail&logoColor=white)](mailto:miqueiassds15@gmail.com)
